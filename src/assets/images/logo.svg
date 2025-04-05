@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="https://svgstorm.com"
+viewBox = "0 0 36 39"
+width="36"
+height="39">
+
+<g fill="None" fill-opacity="0.0" stroke="#4793DB" stroke-opacity="1.00" stroke-width="0.3"><path d="
+M 14.00 33.00 
+C 13.12 23.86 18.14 8.23 5.00 7.00
+C 5.80 15.84 1.12 32.22 14.00 33.00 Z"/>
+</g>
+<g fill="None" fill-opacity="0.0" stroke="#4A9BE0" stroke-opacity="1.00" stroke-width="0.3"><path d="
+M 26.00 33.00 
+C 27.08 25.94 25.99 16.04 17.00 16.00
+C 17.00 21.67 17.00 27.33 17.00 33.00
+C 20.00 33.00 23.00 33.00 26.00 33.00 Z"/>
+</g>
+<g fill="#4793DB" fill-opacity="1.00" stroke="None">
+<path d="
+M 14.00 33.00 
+C 13.12 23.86 18.14 8.23 5.00 7.00
+C 5.80 15.84 1.12 32.22 14.00 33.00 Z"/>
+</g>
+<g fill="#4A9BE0" fill-opacity="1.00" stroke="None">
+<path d="
+M 26.00 33.00 
+C 27.08 25.94 25.99 16.04 17.00 16.00
+C 17.00 21.67 17.00 27.33 17.00 33.00
+C 20.00 33.00 23.00 33.00 26.00 33.00 Z"/>
+</g>
+</svg>
